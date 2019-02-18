@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor bgColor="ffbd93f9" foreColor="ff282a36" name="nbeditor-bracesMatching-match"/>
+    <fontcolor foreColor="ff49483e" name="text-limit-line-color"/>
+    <fontcolor foreColor="ff44475a" name="code-folding"/>
+    <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>
+    <fontcolor bgColor="ff6272a4" foreColor="ffff5555" name="nbeditor-bracesMatching-mismatch"/>
+    <fontcolor name="highlight-caret-row"/>
+    <fontcolor foreColor="fff8f8f0" name="caret-color-overwrite-mode"/>
+    <fontcolor name="status-bar"/>
+    <fontcolor name="guarded"/>
+    <fontcolor name="trailing-whitespace"/>
+    <fontcolor bgColor="ff6272a4" foreColor="ffff5555" name="nbeditor-bracesMatching-mismatch-multichar"/>
+    <fontcolor foreColor="fff8f8f3" name="code-folding-border"/>
+    <fontcolor name="west-sidebars-color"/>
+    <fontcolor foreColor="ffff5555" name="status-bar-bold"/>
+    <fontcolor foreColor="ff50fa7b" name="nbeditor-bracesMatching-sidebar"/>
+    <fontcolor foreColor="ff6272a4" name="line-number"/>
+    <fontcolor bgColor="darkGray" name="readonly-files"/>
+    <fontcolor bgColor="ff50fa7b" foreColor="ff272822" name="highlight-search"/>
+    <fontcolor foreColor="ff44475a" name="code-folding-bar"/>
+    <fontcolor foreColor="ff996600" name="synchronized-text-blocks-ext-slave"/>
+    <fontcolor foreColor="ff44475a" name="indent-guide-lines"/>
+    <fontcolor name="indent-whitespace"/>
+    <fontcolor bgColor="ff50fa7b" name="block-search"/>
+    <fontcolor bgColor="ff44475a" name="selection"/>
+    <fontcolor bgColor="ff50fa7b" foreColor="ff272822" name="inc-search"/>
+    <fontcolor bgColor="ffbd93f9" foreColor="ff282a36" name="nbeditor-bracesMatching-match-multichar"/>
+    <fontcolor foreColor="ff6272a4" name="caret-color-insert-mode"/>
+    <fontcolor foreColor="orange" name="hyperlinks" underline="yellow"/>
+</fontscolors>
